@@ -1,0 +1,7 @@
+Step 1: Create github account
+Step 2: Create a repositary in github site (initialize it by creating readme file - select that option)
+Step 3: After installing git in eclipse, add the repository which is created in github site
+Step 4: Create projects and programs as usual and select team -> shareit to github & provide the repository details.
+Step 5: Commit the repository (Unsaved changes -> Right click add index)
+
+We can use SSH: 
